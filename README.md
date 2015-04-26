@@ -4,6 +4,7 @@
 * [Nix: A Safe and Policy-Free System for Software Deployment](http://nixos.org/~eelco/pubs/nspfssd-lisa2004-final.pdf)
 * Talk "Nix: A Whirlwind Tour" [Slides](https://ocharles.org.uk/nix-a-whirlwind-tour.pdf),
   Video: [Part 1](https://www.youtube.com/watch?v=pxRSgjPyvqQ), [Part 2](https://www.youtube.com/watch?v=0JKdPu9S-To)
+  by [ocharles](https://github.com/ocharles)
 
 
 ###[NixOS](http://nixos.org/nixos/about.html)
