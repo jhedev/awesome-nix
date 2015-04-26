@@ -1,0 +1,26 @@
+#List of interesting resources about Nix/NixOS and the ecosystem
+
+###[Nix](http://nixos.org/nix/about.html)
+* [Nix: A Safe and Policy-Free System for Software Deployment](http://nixos.org/~eelco/pubs/nspfssd-lisa2004-final.pdf)
+* Talk "Nix: A Whirlwind Tour" [Slides](https://ocharles.org.uk/nix-a-whirlwind-tour.pdf),
+  Video: [Part 1](https://www.youtube.com/watch?v=pxRSgjPyvqQ), [Part 2](https://www.youtube.com/watch?v=0JKdPu9S-To)
+
+
+###[NixOS](http://nixos.org/nixos/about.html)
+* [NixOS: the Nix based operating system](http://nixos.org/docs/SCR-2005-091.pdf)
+
+###[NixOps](http://nixos.org/nixops/)
+* [Charon: Declarative Provisioning and Deployment](http://nixos.org/~eelco/pubs/charon-releng2013-final.pdf) (NixOps was formerly known as Charon)
+
+###[DisNix](http://nixos.org/disnix/)
+* [Atomic Upgrading of Distributed Systems](http://nixos.org/~eelco/pubs/atomic-hotswup2008-final.pdf)
+* See [here](https://nixos.org/disnix/docs.html) for more blog posts and papers
+
+###Testing
+* [Automating System Tests Using Declarative Virtual Machines](http://nixos.org/~eelco/pubs/decvms-issre2010-final.pdf)
+
+###The Zalora Platform
+* [Microgram](https://github.com/zalora/microgram)
+* [Defnix](https://github.com/zalora/defnix)
+* [Upcast](https://github.com/zalora/upcast)
+* Talk: "The Zalora Platform", [Slides](https://speakerdeck.com/proger/the-zalora-platform) by [proger](https://github.com/proger)
