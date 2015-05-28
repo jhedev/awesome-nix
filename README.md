@@ -25,3 +25,8 @@
 * [Defnix](https://github.com/zalora/defnix)
 * [Upcast](https://github.com/zalora/upcast)
 * Talk: "The Zalora Platform", [Slides](https://speakerdeck.com/proger/the-zalora-platform) by [proger](https://github.com/proger)
+
+###Blog Posts
+
+* [My experience of using NixOps as an Ansible user](https://blog.wearewizards.io/my-experience-of-using-nixops-as-an-ansible-user)
+* [Nix by example](https://medium.com/@MrJamesFisher/nix-by-example-a0063a1a4c55)
