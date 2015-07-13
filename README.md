@@ -28,6 +28,7 @@
 
 ###Blog Posts
 
+* [Building docker containers from scratch using Nix](http://datakurre.pandala.org/2015/07/building-docker-containers-from-scratch.html)
 * [Install NixOS on a MacBook Air](https://robots.thoughtbot.com/install-linux-on-a-macbook-air)
 * [My experience of using NixOps as an Ansible user](https://blog.wearewizards.io/my-experience-of-using-nixops-as-an-ansible-user)
 * [Nix by example](https://medium.com/@MrJamesFisher/nix-by-example-a0063a1a4c55)
