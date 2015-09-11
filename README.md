@@ -34,3 +34,4 @@
 * [Nix by example](https://medium.com/@MrJamesFisher/nix-by-example-a0063a1a4c55)
 * [Nix on Windows](http://ternaris.com/lab/nix-on-windows.html)
 * [Nix + OSX + HaskellNG = Dependency Paradise?](https://iilab.org/news/2015-03-27-nix-osx-haskellng-hakyll.html)
+* [How to use NixOps in a team](https://blog.wearewizards.io/how-to-use-nixops-in-a-team)
