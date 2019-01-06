@@ -11,6 +11,7 @@
 ### [NixOS](http://nixos.org/nixos/about.html)
 * [NixOS: the Nix based operating system](http://nixos.org/docs/SCR-2005-091.pdf)
 * [NixOS in Production](http://www.haskellforall.com/2018/08/nixos-in-production.html)
+* [Installing NixOS](https://qfpl.io/posts/installing-nixos/)
 
 ### [NixOps](http://nixos.org/nixops/)
 * [Charon: Declarative Provisioning and Deployment](http://nixos.org/~eelco/pubs/charon-releng2013-final.pdf) (NixOps was formerly known as Charon)
