@@ -6,7 +6,12 @@
   Video: [Part 1](https://www.youtube.com/watch?v=pxRSgjPyvqQ), [Part 2](https://www.youtube.com/watch?v=0JKdPu9S-To)
   by [ocharles](https://github.com/ocharles)
 * [Nix Language Primer](http://www.binaryphile.com/nix/2018/07/22/nix-language-primer.html)
+* [Quickly locate nix packages with specific files](https://github.com/bennofs/nix-index)
+* [Easy dependency management for Nix projects](https://github.com/nmattia/niv)
 
+### Nix integration
+* [Run docker-compose with help from Nix/NixOS](https://github.com/hercules-ci/arion)
+* [lorri is a nix-shell replacement for project development. lorri is based around fast direnv integration for robust CLI and editor integration.](https://github.com/target/lorri)
 
 ### [NixOS](http://nixos.org/nixos/about.html)
 * [NixOS: the Nix based operating system](http://nixos.org/docs/SCR-2005-091.pdf)
@@ -39,3 +44,4 @@
 * [Nix on Windows](http://ternaris.com/lab/nix-on-windows.html)
 * [Nix + OSX + HaskellNG = Dependency Paradise?](https://iilab.org/news/2015-03-27-nix-osx-haskellng-hakyll.html)
 * [How to use NixOps in a team](https://blog.wearewizards.io/how-to-use-nixops-in-a-team)
+* [Quick and Easy Nixpkgs Pinning](https://vaibhavsagar.com/blog/2018/05/27/quick-easy-nixpkgs-pinning/)
