@@ -8,6 +8,7 @@
 * [Nix Language Primer](http://www.binaryphile.com/nix/2018/07/22/nix-language-primer.html)
 * [Quickly locate nix packages with specific files](https://github.com/bennofs/nix-index)
 * [Easy dependency management for Nix projects](https://github.com/nmattia/niv)
+* [Nix - A One Pager](https://github.com/tazjin/nix-1p/blob/master/README.md)
 
 ### Nix integration
 * [Run docker-compose with help from Nix/NixOS](https://github.com/hercules-ci/arion)
